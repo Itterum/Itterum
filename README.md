@@ -1,4 +1,3 @@
-## Itterum GitHub stats
 [![Itterum GitHub stats](https://github-readme-stats.vercel.app/api?username=itterum&show_icons=true&theme=transparent)](https://github.com/itterum/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itterum&layout=compact&theme=transparent)](https://github.com/itterum/github-readme-stats)
