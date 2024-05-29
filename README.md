@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300"/>
+<!<div align="center">
+  <img src="https://www.codewars.com/users/Itterum/badges/large" width="600" height="300"/>
 </div>
 <!--
 **Itterum/Itterum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
